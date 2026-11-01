@@ -1,5 +1,3 @@
-"""SQLAlchemy models for users and their private notes."""
-
 from datetime import datetime, timezone
 
 from app import db
