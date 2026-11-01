@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.env
+.venv/
+instance/
+migrations/versions/__pycache__/
+*.db
